@@ -1,0 +1,15 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Jua&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap');
+body {
+  margin: 0;
+  font-family: 'Bungee Shade', cursive;
+}
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
